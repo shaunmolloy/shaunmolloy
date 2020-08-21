@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey](https://github.com/shaunmolloy/shaunmolloy/raw/master/hey.gif)
 
 <!--
 **shaunmolloy/shaunmolloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
