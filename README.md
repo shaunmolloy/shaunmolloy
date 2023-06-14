@@ -1,5 +1,14 @@
 ![Hey](https://github.com/shaunmolloy/shaunmolloy/raw/master/hey.gif)
 
+<details>
+  <summary>See GitHub stats...</summary>
+  <br />
+
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunmolloy&layout=compact&hide=css,html&theme=dark)
+
+  ![shaunmolloy's github stats](https://github-readme-stats.vercel.app/api?username=shaunmolloy&count_private=true&show_icons=true&theme=dark)
+</details>
+
 <!--
 **shaunmolloy/shaunmolloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
